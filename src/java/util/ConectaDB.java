@@ -15,7 +15,7 @@ public class ConectaDB {
         Connection conexao = null;
         try{
             Class.forName("com.mysql.jdbc.Driver");
-            conexao = DriverManager.getConnection("jdbc:mysql://172.28.81.72:3306/db_mini_ml","root","");
+            conexao = DriverManager.getConnection("jdbc:mysql://172.26.10.234:3306/db_mini_ml","root","password");
             return conexao;
         }catch(SQLException ex){ 
             System.out.println("Error: " + ex);
