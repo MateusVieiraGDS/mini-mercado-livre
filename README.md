@@ -78,5 +78,9 @@ Consulte o arquivo [`db_mini_ml.sql`](./db_mini_ml.sql) para os detalhes sobre a
 - ORACLE. **Documentação Oficial do Java**. Disponível em: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/). Acesso em: 27 nov. 2024.
 - GITHUB. **Mini Mercado Livre - Repositório GitHub**. Disponível em: [https://github.com/MateusVieiraGDS/mini-mercado-livre](https://github.com/MateusVieiraGDS/mini-mercado-livre). Acesso em: 27 nov. 2024.
 
+## Screenshots
+- Evidências e imagens demonstrativas podem ser encontradas na pasta [`screenshots`](./screenshots)
+- As imagens estão no fluxo de execução
+
 ## Licença
 Este projeto é de uso acadêmico e não possui licença de distribuição comercial. Fique à vontade para explorá-lo e modificá-lo para fins educacionais.
