@@ -93,7 +93,7 @@
                     </ul>
 
                     <% if (usuarioLogado != null) {%>
-                    <a href="carrinho/" class="btn btn-outline-primary me-3">
+                    <a href="/MiniMercadoLivre/carrinho/" class="btn btn-outline-primary me-3">
                         Carrinho <span class="badge bg-secondary"><%= session.getAttribute("carrinho") != null ? ((List<?>) session.getAttribute("carrinho")).size() : 0%></span>
                     </a>
                     <a href=".?logout=1" class="btn btn-danger">Sair</a>

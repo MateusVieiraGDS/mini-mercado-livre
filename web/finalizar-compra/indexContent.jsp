@@ -74,6 +74,6 @@
         </div>
 
         <button type="submit" class="btn btn-success">Confirmar Compra</button>
-        <a href="carrinho.jsp" class="btn btn-secondary">Voltar ao Carrinho</a>
+        <a href="/MiniMercadoLivre/carrinho/" class="btn btn-secondary">Voltar ao Carrinho</a>
     </form>
 </div>

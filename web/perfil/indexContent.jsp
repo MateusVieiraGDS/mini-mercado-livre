@@ -108,6 +108,6 @@
 
     <div class="mt-4 text-center">
         <a href="/MiniMercadoLivre" class="btn btn-secondary">Voltar à Página Inicial</a>
-        <a href="logout.jsp" class="btn btn-danger">Sair</a>
+        <a href=".?logout=1" class="btn btn-danger">Sair</a>
     </div>
 </div>
